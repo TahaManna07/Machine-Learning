@@ -1,0 +1,4 @@
+Réaliser un modèle mathématique de régression logistique pour la classification
+binaire de la 'Occupancy’ en fonction de 'CO2' et 'Light'.
+
+Documentation du dataset : https://archive.ics.uci.edu/dataset/357/occupancy+detection

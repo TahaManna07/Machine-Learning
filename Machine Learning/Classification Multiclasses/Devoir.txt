@@ -1,0 +1,9 @@
+Consignes:
+
+Réaliser un modèle mathématique de régression logistique pour la classification Multiclasses du dataset iris. Dans le notebook rendu vous spécifiez quelle approche vous avez utilisée:
+
+ 1. One-vs-Rest
+(OvR)
+ou One-vs-All (OvA).
+ 2. One-vs-One
+(OvO).

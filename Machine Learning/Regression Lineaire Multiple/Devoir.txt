@@ -1,0 +1,6 @@
+1. Faire le découpage des données en dataset de test et dataset d'entrainement ( data split) sur le même exemple et évaluer la performance du modèle.
+Dans ce qui suit, il faut toujours faire le data split; 
+2. Faire un modèle de prédiction du prix en fonction de tout les caractéristiques ( 18 features)
+3. Faire un modèle de prédiction du prix en fonction de tout les caractéristiques mais en supprimant seulement ceux qui ont faible corrélation avec la cible  (une corrélation < 0.2 , 7 features)
+4. Faire un modèle de prédiction du prix en fonction de tout les caractéristiques mais en supprimant ceux qui ont forte intercorrélation
+( corrélation > 0.75 - 2 features)
